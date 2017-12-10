@@ -1,2 +1,4 @@
-# quantum-counterfeit-coin-algorithm
+# Quantum Counterfeit Coin Algorithm
+
 Quantum Counterfeit Coin Algorithm
+
